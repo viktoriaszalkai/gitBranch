@@ -15,5 +15,7 @@ public class GitBranch {
         return 0;
     }
     // létrehozunk egy másik ágat és azon fogunk vátoztatásokat létrehozni
-    
+    public void elj(){
+        
+    }
 }
